@@ -1,0 +1,26 @@
+[
+    {
+       "id": 1,
+       "card": "/cards/1.jpg",
+       "titulo": "Física",
+       "area": "Exactas"
+    },
+    {
+        "id": 2,
+       "card": "/cards/2.jpg",
+       "titulo": "Geografía",
+       "area": "Sociales"
+    },
+    {
+        "id": 3,
+        "card": "/cards/3.jpg",
+        "titulo": "Lengua",
+        "area": "Humanas"
+     },
+     {
+         "id": 4,
+        "card": "/cards/4.jpg",
+        "titulo": "Matemática",
+        "area": "Exactas"
+     }
+]

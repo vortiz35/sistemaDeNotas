@@ -1,0 +1,63 @@
+main{
+    margin: 20px;
+    width: 80%;
+    background-color: beige;
+    font-family: 'Fresca', sans-serif;
+}
+
+h1{
+    color: green;
+    margin: 20px;
+    font-family: 'Fresca', sans-serif;
+}
+
+p{
+    font-size: 24px;
+    margin-left: 22px;
+}
+
+.barra a{
+    font-family: 'Fresca', sans-serif;
+    font-size: 25px;
+}
+.contener div{
+    margin: 20px;
+    margin-left: 40px;
+    font-size:15px;
+}
+.contener input{
+    font-size: 20px;
+}
+
+.imagen{
+    text-align: center;
+}
+.imagen button{
+    border: white;
+    cursor: pointer;
+}
+
+.imagen p{
+    color:blue;
+}
+
+.prom{
+    text-align: center;
+    border: solid lightblue;
+    border-radius: 0.5%;
+    border-style: dotted;   
+}
+
+.prom h3{
+    margin-top: 30px; 
+}
+
+.prueba{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.general{
+   margin-left: 32px;
+}
