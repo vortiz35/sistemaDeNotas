@@ -52,7 +52,7 @@ function creaMateria(){
     msjCarga('Listo','La materia se cargó correctamente.', 'darkred')
 }
 
-//Calcula el promedio general (promedio de todas las mateias)
+//Calcula el promedio general (promedio de todas las materias)
 function promedioGeneral(){
     let materiasGuardadas = JSON.parse(localStorage.getItem("materias"))  //array de objetos
     let sumaProm = 0
